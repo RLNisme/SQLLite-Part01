@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQL_Lite</string>
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="em">Email</string>
+    <string name="insert">Insert</string>
+    <string name="view">View</string>
+</resources>
